@@ -13,7 +13,7 @@ coverage-house.jpg <- wave12/house-arched-tile.jpg : Cream stucco home with arch
 hvac-copper-hands.jpg <- cr0925b/hvac-copper-hands.jpg : HVAC Feb 2017 (16) (flickr PDM https://www.flickr.com/photos/130889197@N03/33325214175)
 hvac-condensers-pair.jpg <- wave12/hvac-condensers-pair.jpg : Two residential AC condensers on pads in a planted side yard (flickr CC0 1.0 https://www.flickr.com/photos/29155878@N03/43467268155)
 hvac-thermostat-old.jpg <- wave12/hvac-thermostat-old.jpg : Older non-programmable digital wall thermostat (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=19937724)
-hvac-thermostat-smart.jpg <- wave12/hvac-thermostat-smart.jpg : Round smart thermostat on a wall (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=49900570)
+hvac-thermostat-smart.jpg <- wave12/hvac-thermostat-smart.jpg (portrait photo placed on a blurred copy of itself so the whole unit shows in the wide frame) : Round smart thermostat on a wall (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=49900570)
 hvac-duct-run.jpg <- cr0925b/hvac-duct-run.jpg : Ohio Stadium (flickr CC0 https://www.flickr.com/photos/140641142@N05/37257672280)
 hvac-filter-furnace.jpg <- wave12/hvac-filter-furnace.jpg : Hand holding a new air filter at a furnace; hand only (wikimedia CC0 1.0 https://commons.wikimedia.org/w/index.php?curid=158722147)
 
